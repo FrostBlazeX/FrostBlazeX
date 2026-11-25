@@ -1,10 +1,10 @@
 # Hi, I'm Evan 👋
 
-**AI / LLM Engineer with a frontend-developer background.** I build
-production-grade AI systems end to end — the full journey from "works on my
-machine" to **evaluated, observable, guarded, and deployed** — across
-Python/FastAPI services, a Next.js frontend, and the retrieval, agent, and
-evaluation plumbing in between.
+**Frontend developer expanding into AI/LLM engineering.** React and Next.js are
+home base; lately I've been taking LLM features all the way to production —
+**evaluated, observable, guarded, and deployed** — and building real projects as
+I go. The repos below are that journey, in the open: Python/FastAPI services, a
+Next.js frontend, and the retrieval, agent, and evaluation plumbing in between.
 
 ## 🧊 Featured work — one connected full-stack AI product
 
